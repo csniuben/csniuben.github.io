@@ -55,6 +55,18 @@
 </ul>
 		
 </div> <!-- id="avmenu" -->
+<div>
+<table>
+	<tr>
+		<td><img src = "img/flag-hong-kong.png"></td>
+		<td><img src = "img/flag-united-states.png"></td>
+	
+	</tr>
+</table>
+
+
+
+</div>
 
 <!---------------------------------------------------------------------->
 
@@ -67,13 +79,6 @@
 <p>Dr. Niu is passionate about developing Machine Learning method with applications to Life Science and Precision Medicine.</p>
 <hr>
 <p>
-<table>
-	<tr>
-		<td><img src = "img/flag-hong-kong.png"></td>
-		<td><img src = "img/flag-united-states.png"></td>
-	
-	</tr>
-</table>
 <img src="img/balance.jpg" width="600" alt="Quote-neuman"> 
   <div class=MsoNormal align=center style='text-align:center'>
   <hr size=2 width="100%" align=center>
