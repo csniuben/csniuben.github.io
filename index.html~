@@ -53,13 +53,12 @@
 <li><a href="contact.html">               Contact</a></li>
 
 </ul>
-		
-</div> <!-- id="avmenu" -->
+
 <div>
 <table>
 	<tr>
-		<td><img src = "img/flag-hong-kong.png"></td>
-		<td><img src = "img/flag-united-states.png"></td>
+		<td><img src = "img/flag-hong-kong.png"  width="60" ></td>
+		<td><img src = "img/flag-united-states.png"  width="60" ></td>
 	
 	</tr>
 </table>
@@ -67,6 +66,9 @@
 
 
 </div>
+
+
+</div> <!-- id="avmenu" -->
 
 <!---------------------------------------------------------------------->
 
